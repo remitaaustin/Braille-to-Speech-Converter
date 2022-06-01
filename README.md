@@ -1,4 +1,4 @@
-# Braille-to-Speech-Converter
+# Braille to Speech Converter
 Technical Answers for Real World Problems (CSE1901) J Component
 
 ## Steps to be followed:
